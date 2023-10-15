@@ -13,7 +13,7 @@ import java.util.Scanner;
  * - get a decimal
  * - get an int (with a minimum value)
  *  - get a int (with a min and max value)
- * @author Ken Healy
+ * @author 
  */
 public class IOUtils {
 
